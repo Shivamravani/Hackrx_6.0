@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+unstructured
+sentence-transformers
+faiss-cpu
+openai
+python-multipart
+pydantic
+transformers
