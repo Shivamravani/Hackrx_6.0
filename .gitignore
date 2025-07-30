@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+
+# PDFs or datasets
+*.pdf
+*.csv
+*.zip
+*.tar.gz
+*.pt
+*.onnx
+
+# VSCode and system files
+.vscode/
+.DS_Store
+*.log
+
+# OS files
+Thumbs.db
+ehthumbs.db
+desktop.ini
